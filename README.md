@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luizamairas
+- 👋 Hi, I’m Luíza Maira!
 
 <!---
 luizamairas/luizamairas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
